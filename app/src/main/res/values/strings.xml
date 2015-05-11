@@ -53,4 +53,31 @@
     <string name="refresh">Refresh</string>
     <string name="currentUser">currentUser</string>
     <string name="successful_event_add">Successfully added event</string>
+
+    <string name="category_events">Category</string>
+    <string name="event_type_extra">eventExtra</string>
+
+    <string name="category_careers">Careers</string>
+    <string name="category_faculty">Faculty</string>
+    <string name="category_interests">Interests</string>
+    <string name="category_cultural">Cultural</string>
+    <string name="category_food">Food</string>
+    <string name="category_free_food">Free Food</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_fundraiser">Fundraisers</string>
+    <string name="category_learning">Learning</string>
+    <string name="category_festivals">Festivals</string>
+    <string name="category_performing_arts">Performing Arts</string>
+    <string name="category_political">Political</string>
+
+    <string name="event_name">Event Name</string>
+    <string name="event_location">Event Location</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_start_time">Event Start Time</string>
+    <string name="event_id">Event Id</string>
+    <string name="event_society_id">Event Society Id</string>
+    <string name="event_item">Event</string>
+    <string name="society_name">society_name</string>
+    <string name="society_email">society_email</string>
 </resources>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".MainActivity" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/categoryCareersButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Careers"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryFacultyButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Faculty"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryInterestsButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Interests"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryCulturalButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Cultural"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryFoodButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Food"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryFreeFoodButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Free Food"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categorySportsButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Sports"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryFundraisersButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Fundraisers"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryLearningButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Learning"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryFestivalButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Festivals"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryPerformingArtsButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Performing Arts"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+                <Button
+                    android:id="@+id/categoryPoliticalButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Political"
+                    android:elegantTextHeight="false"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textColorHint="@android:color/white"
+                    android:textColor="#ffffffff"
+                    android:background="#ff34beff" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+</LinearLayout>
