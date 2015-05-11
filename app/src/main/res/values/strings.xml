@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">eventFloc</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="update">Update</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="add">Add Event</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="home">Home</string>
+    <string name="create_event">Create an Event</string>
+
+
+    <string name="matching_password">Registration Success!</string>
+    <string name="nonmatching_password">Passwords don\'t match!</string>
+    <string name="successful_login">Success! Logging in...</string>
+    <string name="unsuccessful_login">Please check your password again or register if you do not have an account</string>
+    <string name="empty_fields">Please check all fields have been filled</string>
+    <string name="email_registered">This email has already been registered!</string>
+    <string name="password_length">Password is too short! Password must be greater than 8 characters</string>
+    <string name="invalid_email">This email is not valid! Please try again with a valid email</string>
+    <string name="registration_fail">Registration failed. Please try again</string>
+
+    <string-array name="tabs">
+        <item>EXPLORE</item>
+        <item>SOCIETIES</item>
+        <item>ENDING</item>
+        <item>NEWEST</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Careers</item>
+        <item>Faculty</item>
+        <item>Interests</item>
+        <item>Cultural</item>
+        <item>Food</item>
+        <item>Free Food</item>
+        <item>Sports</item>
+        <item>Fundraisers</item>
+        <item>Learning</item>
+        <item>Festivals</item>
+        <item>Performing Arts</item>
+        <item>Political</item>
+
+    </string-array>
+
+    <string name="title_activity_my_events">MyEventsActivity</string>
+    <string name="my_events">My Events</string>
+    <string name="refresh">Refresh</string>
+    <string name="currentUser">currentUser</string>
+    <string name="successful_event_add">Successfully added event</string>
+</resources>
